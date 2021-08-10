@@ -1,5 +1,5 @@
 html,body{height:100%;max-width:100%;margin:0;overflow:hidden;background:rgba(0,10,20,1);background-size:cover; font-family:sans-serif}
 #space{width:100%}
-#content{position:absolute;z-index:9;top:50%;bottom:50%;left:40%;right:50%;margin:auto;color:rgba(255, 255, 255,1);padding:1em;width:15em;text-align:center;font-family:"manrope";font-size:2em;display:inline-block;text-decoration:none;}
+#content{position:absolute;z-index:9;top:50%;bottom:50%;left:40%;right:50%;margin:auto;color:rgba(255, 255, 255,1);padding:1em;width:15em;text-align:center;font-family:"Manrope";font-size:2em;display:inline-block;text-decoration:none;}
 
 #portfolio{text-align:center;font-family:"manrope";font-size:.5em;display:inline-block;text-decoration:none;}
